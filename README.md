@@ -1,9 +1,10 @@
 # midterm
 sojan_shon &amp; zhang_bozhi
 
-Topic: ##The Development of AI will help Humanity
+## The Development of AI will help Humanity
 
 **Name:** Shon Sojan
+![AI is useful](img/AI_shon.jpg)
 ### Agree Points
 1. AI has the potential to enhance efficiency and productivity in various industries. Automation and AI-powered systems can perform tasks more quickly and accurately.
 2. AI can improve healthcare by aiding in the diagnosis of diseases, drug discovery, and personalized treatment plans.
